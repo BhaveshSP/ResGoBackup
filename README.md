@@ -1,2 +1,3 @@
 # ResGoBackup
-Place Holder
+
+This is a backup tool written in GO 
